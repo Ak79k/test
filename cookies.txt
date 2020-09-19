@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.paladin.ac	TRUE	/	FALSE	1999999999	fmodf	a60872fmaudeit2422nq8tcuom
-.paladin.ac	TRUE	/	FALSE	1999999999	UID	deleted
-.paladin.ac	TRUE	/	FALSE	1999999999	Token	deleted
-.paladin.ac	TRUE	/	FALSE	1999999999	__cfduid	d553ee5c4a2adb88e595c89de889baf5a1600547815
-paladin.ac	TRUE	/	FALSE	1999999999	SameSite	Lax
-
